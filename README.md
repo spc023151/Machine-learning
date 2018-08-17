@@ -9,6 +9,7 @@
 適合有基礎python程式能力，對機器學習有興趣的初學者
 
 對書的內容有興趣的人可以參考以下網址:
+
 http://www.books.com.tw/products/0010761759?gclid=Cj0KCQjw5NnbBRDaARIsAJP-YR9VM4s_KxyCLiEvqnIxs9-QhP0kTb4lyGC8CcSbAacBMRia0-gNhS4aArrwEALw_wcB
 
 http://www.books.com.tw/products/0010774364?loc=P_asb_008
