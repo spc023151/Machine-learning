@@ -2,8 +2,9 @@
 
 內容為我參考以下書籍的程式碼
 
-  Deep Learning：用Python進行深度學習的基礎理論實作
-  Python資料科學學習手冊
+    Deep Learning：用Python進行深度學習的基礎理論實作
+  
+    Python資料科學學習手冊
 
 加上自己學習的經驗以及博客完成的心得教學
 
